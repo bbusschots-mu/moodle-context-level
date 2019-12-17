@@ -1,0 +1,47 @@
+{
+  "name": "@maynoothuniversity/moodle-context-level",
+  "version": "1.0.0",
+  "description": "A JavaScript class representing the context levels in Moodle's permissions system.",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "./node_modules/rollup/dist/bin/rollup -c",
+    "docs": "./node_modules/.bin/esdoc -c ./esdoc.json",
+    "docs-dev": "./node_modules/.bin/esdoc -c ./esdoc-dev.json",
+    "test": "./node_modules/.bin/qunit -c MoodleContextLevel:./dist/index.js -d is:./node_modules/is_js _:./node_modules/lodash util:./node_modules/@maynoothuniversity/mu-qunit-util -t ./test/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbusschots-mu/moodle-context-level.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Moodle"
+  ],
+  "author": "Bart Busschots",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbusschots-mu/moodle-context-level/issues"
+  },
+  "homepage": "https://github.com/bbusschots-mu/moodle-context-level#readme",
+  "devDependencies": {
+    "@maynoothuniversity/mu-qunit-util": "^1.1.1",
+    "esdoc": "^1.1.0",
+    "esdoc-node": "^1.0.5",
+    "esdoc-standard-plugin": "^1.0.0",
+    "lodash": "^4.17.15",
+    "node-qunit": "^1.0.0",
+    "rollup": "^1.27.8",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "dependencies": {
+    "is_js": "^0.9.0"
+  }
+}

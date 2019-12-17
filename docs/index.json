@@ -1,0 +1,1655 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import is from 'is_js';\n\n/**\n * A Moodle Context Level number. These are the actual numbers used in the\n * Moodle database tables to represent the different context levels.\n *\n * @typedef {string|number} ContextLevelNumber\n * @example '10'\n */\n\n/**\n * A Moodle Context Level name. These are the names of the PHP constants defined\n * in the Moodle code\n * (`[lib/accesslib.php](https://github.com/moodle/moodle/blob/master/lib/accesslib.php)`).\n *\n * @typedef {string} ContextLevelName\n * @example 'CONTEXT_SYSTEM'\n */\n\n/**\n * The base names for a Moodle Context Level. These are the names of the PHP\n * constants with the `CONTEXT_` prefix removed and converted to lower case.\n *\n * @typedef {string} ContextLevelBaseName\n * @example 'system'\n * @see {@link ContextLevelName}\n */\n\n/**\n * An alias for the base name for the Moodle Context Level. These names consist\n * of only camel-cased letters.\n *\n * @typedef {string} ContextLevelAlias\n * @example 'courseCategory'\n */\n\n/**\n * A mapping from context level numbers to context level base names.\n * \n * @type {Map<ContextLevelNumber, ContextLevelBaseName>}\n * @protected\n */\nconst NUM_BASENAME_MAP = {\n    '10': 'system',\n    '30': 'user',\n    '40': 'coursecat',\n    '50': 'course',\n    '70': 'module',\n    '80': 'block'\n};\n\n/**\n * A mapping from context level numbers to context level names.\n * \n * @type {Map<ContextLevelNumber, ContextLevelName>}\n * @protected\n */\nconst NUM_NAME_MAP = {};\nfor(const num of Object.keys(NUM_BASENAME_MAP)){\n\tNUM_NAME_MAP[num] = `CONTEXT_${NUM_BASENAME_MAP[num].toUpperCase()}`;\n}\n\n/**\n * A mapping of base names to an array of aliases.\n *\n * @type {Map<ContextLevelBaseName, ContextLevelAlias[]>}\n * @protected\n */\nconst BASENAME_ALIASES_MAP = {\n\tsystem: [],\n\tuser: [],\n\tcoursecat: ['courseCategory', 'category'],\n\tcourse: [],\n\tmodule: [],\n\tblock: []\n};\n\n/**\n * A mapping form context level names to context level numbers.\n * \n * @type {Map<ContextLevelName, ContextLevelNumber>}\n * @protected\n */\nconst NAME_NUM_MAP = {};\nfor(const num of Object.keys(NUM_NAME_MAP)){\n    NAME_NUM_MAP[NUM_NAME_MAP[num]] = parseInt(num);\n}\n\n/**\n * A mapping from context level base names and aliases to context level numbers.\n * \n * @type {Map<ContextLevelBaseName|ContextLevelAlias, ContextLevelNumber>}\n * @protected\n */\nconst BASENAME_NUM_MAP = {};\nfor(const num of Object.keys(NUM_BASENAME_MAP)){\n    BASENAME_NUM_MAP[NUM_BASENAME_MAP[num]] = parseInt(num);\n}\nfor(const bn of Object.keys(BASENAME_ALIASES_MAP)){\n\tconst aliases = BASENAME_ALIASES_MAP[bn];\n\tfor(const bna of aliases){\n\t\tBASENAME_NUM_MAP[bna] = BASENAME_NUM_MAP[bn];\n\t}\n}\n\n/**\n * A mapping from lowser-cased context level base names and aliases to context\n * level numbers.\n * \n * @type @type {Map<string, ContextLevelNumber>}\n * @protected\n */\nconst LC_BASENAME_NUM_MAP = {};\nfor(const bn of Object.keys(BASENAME_NUM_MAP)){\n\tLC_BASENAME_NUM_MAP[bn.toLowerCase()] = BASENAME_NUM_MAP[bn];\n}\n\n/**\n * A class for representing\n * [Context Levels](https://docs.moodle.org/38/en/Assign_roles#Context_and_roles)\n * within the [Moodle VLE](http://moodle.org/)'s permissions system.\n * \n * @see https://docs.moodle.org/38/en/Assign_roles#Context_and_roles\n */\nclass MoodleContextLevel {\n    /**\n     * The default context is `CONTEXT_SYSTEM`.\n     *\n     * @param {ContextLevelNumber|ContextLevelName|ContextLevelBaseName|ContextLevelAlias} context\n     * @throws TypeError\n     * @throws RangeError\n     */\n    constructor(context){\n\t\t// default to system context\n\t\tlet num = BASENAME_NUM_MAP.system;\n\t\t\n\t\t// process args (if any)\n\t\tif(is.not.undefined(context)){\n\t\t\tnum = MoodleContextLevel.parseToNumber(context); // could throw error\n\t\t}\n\t\t\n        /**\n         * @type {ContextLevelNumber}\n         */\n        this._number = num;\n    }\n\t\n\t/**\n\t * A list of all existing context level names as they appear in the\n\t * Moodle source code sorted from lowest context level number to highest.\n\t *\n\t * @type {string[]}\n\t */\n\tstatic get names(){\n\t\tconst ans = [];\n\t\tfor(const n of Object.keys(NUM_NAME_MAP).sort()){\n\t\t\tans.push(NUM_NAME_MAP[n]);\n\t\t}\n\t\treturn ans;\n\t}\n\t\n\t/**\n\t * An alphabetic list of all defined base names, including aliases.\n\t *\n\t * @type {string[]}\n\t */\n\tstatic get baseNames(){\n\t\treturn Object.keys(BASENAME_NUM_MAP).sort();\n\t}\n\t\n\t/**\n\t * An alphabetic list of all defined level names, be they full names as they\n\t * appear in the Moodle  source code, base names, or aliases.\n\t *\n\t * @type {string[]}\n\t */\n\tstatic get allNames(){\n\t\treturn [\n\t\t\t...MoodleContextLevel.names,\n\t\t\t...MoodleContextLevel.baseNames\n\t\t].sort();\n\t}\n\t\n\t/**\n\t * A sorted list of all defined context level numbers.\n\t *\n\t * @type {number[]}\n\t */\n\tstatic get levelNumbers(){\n\t\treturn Object.keys(NUM_BASENAME_MAP).map(n => parseInt(n)).sort();\n\t}\n\t\n\t/**\n\t * A list of all context levels sorted by context level number.\n\t *\n\t * @type {MoodleContextLevel[]}\n\t */\n\tstatic get levels(){\n\t\treturn MoodleContextLevel.names.map(n=>new MoodleContextLevel(n));\n\t}\n    \n    /**\n     * Test if a given value is a valid Moodle Context Level Number.\n     *\n     * @param {*} val - the value to test.\n     * @param {boolean} [strictTypeCheck=false] - whether or not to enable\n     * strict type checking. With strict type cheking enabled, string\n     * representation of otherwise valid values will return `false`.\n     * @return {boolean}\n\t * @see {@link ContextLevelNumber}\n     */\n    static isContextLevelNumber(val, strictTypeCheck){\n        if(is.not.number(val)){\n            if(strictTypeCheck) return false;\n            if(is.not.string(val)) return false;\n        }\n        return String(val).match(/^[134578]0$/) ? true : false;\n    }\n    \n    /**\n     * Test if a given value is a valid Moodle Context Level Name.\n\t *\n\t * By default names, base names, and aliases are considered valid, but with\n\t * strict checking only the full context level names as used in the Moodle\n\t * source code will be accepted.\n     *\n     * @param {*} val - the value to test.\n     * @param {boolean} [strictCheck=false] - By default any name that can be\n\t * resolved to a context level number, ignoring case,  will be considered\n\t * valid, but if a truthy value is passed only full context level names in\n\t * the correct case exactly as used in the Moodle source code will be\n\t * accepted. \n     * @return {boolean}\n\t * @see {@link ContextLevelName}\n\t * @see {@link ContextLevelBaseName}\n\t * @see {@link ContextLevelAlias}\n     */\n    static isContextLevelName(val, strictCheck){\n\t\t// short-circuit non-strings\n        if(is.not.string(val)) return false;\n\t\t\n\t\t// sort-circuit the passing strict check\n\t\tif(NAME_NUM_MAP[val]) return true;\n\t\t\n\t\t// we only strict is acceptable, return false\n\t\tif(strictCheck) return false;\n\t\t\n\t\t// a case-insensitive check of names\n\t\tif(NAME_NUM_MAP[val.toUpperCase()]) return true;\n\t\t\n\t\t// a case-insensitive check of base names and aliases\n\t\tif(LC_BASENAME_NUM_MAP[val.toLowerCase()]) return true;\n\t\t\n\t\t// if we got here the name is not valid\n        return false;\n    }\n    \n    /**\n     * Convert any valid name to a context level number. Valid names are\n\t * context level names as they appear in the Moodle code, context level\n\t * base names, and context level aliases.\n     *\n     * @param {ContextLevelName, ContextLevelBaseName, ContextLevelAlias} name\n     * @return {ContextLevelNumber|NaN} If the passed value can't be converted\n     * to a context level number `NaN` is returned.\n     */\n    static numberFromName(name){\n        if(is.not.string(name)) return NaN;\n\t\tconst ucName = name.toUpperCase();\n        if(NAME_NUM_MAP[ucName]) return NAME_NUM_MAP[ucName];\n\t\tconst lcName = name.toLowerCase();\n\t\tif(LC_BASENAME_NUM_MAP[lcName]) return LC_BASENAME_NUM_MAP[lcName];\n        return NaN;\n    }\n    \n    /**\n     * Compare two values to see if they represent the same context level, a\n     * greater context level, or a lesser context level.\n     *\n     * Context levels are compared based on their context level number.\n     *\n     * @param {*} val1\n     * @param {*} val2\n     * @return {number} Unless both values are context level objects, `NaN` is\n     * returned. If `val1` represents lower context level number than `val2`\n\t * `-1` is returned, if `val1` and `val2` represent the same context level\n\t * `0` is returned, and if `val1` represents a greater context level number\n\t * version than `val2` `1` is returned.\n     */\n    static compare(val1, val2){\n        // unless we get two Moodle context levels, return NaN\n        if(!((val1 instanceof MoodleContextLevel) && (val2 instanceof MoodleContextLevel))) return NaN;\n        \n        // compare numeric representations\n        const l1 = val1.number;\n\t\tconst l2 = val2.number;\n        if(l1 < l2) return -1;\n        if(l1 > l2) return 1;\n\t\treturn 0;\n    }\n    \n    /**\n     * A factory method to build a {@link MoodleContextLevel} object from any\n     * parsable value. The following are supported:\n     *\n     * * A valid context level number (as a number or string)\n\t * * A valid context level name as used in the Moodle code base (in any case).\n\t * * A valid context level base name (in any case).\n\t * * A valid context level alias (in any case).\n\t * * A context level object.\n     *\n     * @param {number|string|MoodleContextLevel} level - the context level value to parse.\n     * @return {MoodleContextLevel}\n     * @throws {TypeError}\n     * @throws {RangeError}\n     * @see {@link ContextLevelNumber}\n     * @see {@link ContextLevelName}\n     * @see {@link ContextLevelBaseName}\n     * @see {@link ContextLevelAlias}\n     */\n    static parse(level){\n\t\treturn new MoodleContextLevel(MoodleContextLevel.parseToNumber(level));\n    }\n    \n    /**\n     * Try to convert a value to a context level number. The following values\n     * are supported:\n     *\n     * * A valid context level number (as a number or string)\n\t * * A valid context level name as used in the Moodle code base (in any case).\n\t * * A valid context level base name (in any case).\n\t * * A valid context level alias (in any case).\n\t * * A context level object.\n     *\n     * @param {number|string|MoodleContextLevel} level - the context level value to parse.\n     * @return {MoodleContextLevelNumber}\n     * @throws {TypeError}\n     * @throws {RangeError}\n     * @see {@link ContextLevelNumber}\n     * @see {@link ContextLevelName}\n     * @see {@link ContextLevelBaseName}\n     * @see {@link ContextLevelAlias}\n     */\n    static parseToNumber(level){\n\t\tif(level instanceof MoodleContextLevel){\n\t\t\treturn level.number;\n\t\t}\n\t\tif(is.number(level) || is.string(level)){\n\t\t\tconst strLevel = String(level);\n\t\t\tif(strLevel.match(/^\\d{2}$/)){\n\t\t\t\t// is integer, check if it's a valid key\n\t\t\t\tif(NUM_BASENAME_MAP[level]){\n\t\t\t\t\treturn parseInt(level);\n\t\t\t\t}else{\n\t\t\t\t\tthrow new RangeError(`unknown level '${level}'`);\n\t\t\t\t}\n\t\t\t}else{\n\t\t\t\t// is not an integer, so check if it's a known name\n\t\t\t\tconst num = MoodleContextLevel.numberFromName(level);\n\t\t\t\tif(num){\n\t\t\t\t\treturn num;\n\t\t\t\t}else{\n\t\t\t\t\tthrow new RangeError(`unknown level '${level}'`);\n\t\t\t\t}\n\t\t\t}\n\t\t}\n        throw new TypeError('invalid value - level must be a number, string, or MoodleContextLevel object');\n    }\n\t\n\t/**\n     * Try to convert a value to a context level name as used in the Moodle\n     * source code. The following values are supported:\n     *\n     * * A valid context level number (as a number or string)\n\t * * A valid context level name as used in the Moodle code base (in any case).\n\t * * A valid context level base name (in any case).\n\t * * A valid context level alias (in any case).\n\t * * A context level object.\n     *\n     * @param {number|string|MoodleContextLevel} level - the context level value to parse.\n     * @return {MoodleContextLevelName}\n     * @throws {TypeError}\n     * @throws {RangeError}\n     * @see {@link ContextLevelNumber}\n     * @see {@link ContextLevelName}\n     * @see {@link ContextLevelBaseName}\n     * @see {@link ContextLevelAlias}\n     */\n    static parseToName(level){\n\t\tif(level instanceof MoodleContextLevel){\n\t\t\treturn level.name;\n\t\t}\n\t\tif(is.number(level) || is.string(level)){\n\t\t\tconst strLevel = String(level);\n\t\t\tif(strLevel.match(/^\\d{2}$/)){\n\t\t\t\t// is integer, check if it's a valid key\n\t\t\t\tif(NUM_BASENAME_MAP[level]){\n\t\t\t\t\treturn NUM_NAME_MAP[level];\n\t\t\t\t}else{\n\t\t\t\t\tthrow new RangeError(`unknown level '${level}'`);\n\t\t\t\t}\n\t\t\t}else{\n\t\t\t\t// is not an integer, so check if it's a known name\n\t\t\t\tconst num = MoodleContextLevel.parseToNumber(level);\n\t\t\t\tif(num){\n\t\t\t\t\treturn NUM_NAME_MAP[num];\n\t\t\t\t}else{\n\t\t\t\t\tthrow new RangeError(`unknown level '${level}'`);\n\t\t\t\t}\n\t\t\t}\n\t\t}\n        throw new TypeError('invalid value - level must be a number, string, or MoodleContextLevel object');\n    }\n    \n    /**\n     * The level's numeric value.\n     *\n     * @type {number}\n     */\n    get number(){\n        return this._number;\n    }\n    \n    /**\n     * The level's numeric value, must be one of the levels defined in\n     * `lib/accesslib.php` in the Moodle source code.\n     *\n     * @type {ContextLevelNumber}\n     * @throws {TypeError}\n     * @throws {RangeError}\n     */\n    set number(n){\n        if(!String(n).match(/^-?\\d+$/)){\n\t\t\tthrow new TypeError('must be a number');\n\t\t}\n\t\tif(!MoodleContextLevel.isContextLevelNumber(n)){\n\t\t\tthrow new RangeError(`unknown level '${n}'`);\n\t\t}\n\t\tthis._number = parseInt(n); // force to a number\n    }\n    \n    /**\n     * The level's name as it appears in the Moodle sourse code.\n     *\n     * @type {ContextLevelName}\n     */\n    get name(){\n        return NUM_NAME_MAP[this._number];\n    }\n    \n    /**\n     * The level's name in any valid form.\n     *\n     * Any name that can be parsed by the `nameFromNumber()` static function\n     * is acceptable.\n     *\n     * @type {(ContextLevelName|ContextLevelBaseName|ContextLevelAlias)}\n     * @throws {TypeError}\n     * @throws {RangeError}\n     * @see MoodleContextLevel.nameFromNumber\n     */\n    set name(n){\n        if(is.not.string(n)) throw new TypeError('must be a string');\n\t\tconst num = MoodleContextLevel.numberFromName(n);\n\t\tif(num){\n\t\t\tthis._number = num;\n\t\t}else{\n\t\t\tthrow new RangeError(`unknown level '${n}'`);\n\t\t}\n    }\n    \n    /**\n     * The level's base name.\n     *\n     * @type {ContextLevelBaseName}\n     */\n    get baseName(){\n        return NUM_BASENAME_MAP[this._number];\n    }\n\t\n\t/**\n\t * All the level's aliases.\n\t *\n\t * @type {ContextLevelAlias[]}\n\t */\n\tget aliases(){\n\t\treturn [...BASENAME_ALIASES_MAP[NUM_BASENAME_MAP[this._number]]];\n\t}\n    \n    /**\n     * All the level's valid names in alphabetical order. This includes the\n     * level's name as used in the Moodle source code, the level's base name,\n     * and all the level's aliases.\n     *\n     * @type {string[]}\n     */\n    get names(){\n        return [\n\t\t\tthis.name,\n\t\t\tthis.baseName,\n\t\t\t...this.aliases\n\t\t].sort();\n    }\n    \n    /**\n     * Create a new Moodle context level object representing the same context\n     * level.\n     *\n     * @return {MoodleContextLevel}\n     */\n    clone(){\n        return new MoodleContextLevel(this._number);\n    }\n    \n    /**\n     * The context level as a string consisting of the name followed by a space\n     * then the level number in parentheses, e.g. `SYSTEM (10)`.\n     *\n     * @return {string}\n     */\n    toString(){\n        return `${this.name} (${this.number})`;\n    }\n    \n    /**\n     * The version as a plain object indexed by:\n     *\n     * * `name`\n     * * `number`\n     * * `baseName`\n     * * `aliases`\n     *\n     * @return {Object}\n     */\n    toObject(){\n        return {\n            name: this.name,\n            number: this.number,\n            baseName: this.baseName,\n            aliases: this.aliases\n        };\n    }\n    \n    /**\n     * Test if a given value is a Moodle context level object representing the\n     * same context level.\n     *\n     * @param {*} val\n     * @return {boolean}\n     */\n    equals(val){\n        return MoodleContextLevel.compare(this, val) === 0 ? true : false;\n    }\n    \n    /**\n     * Compare this context level to another.\n     *\n     * @param {MoodleContextLevel} mv\n     * @return {number} `-1` returned if passed context level is lesser, `0` if\n     * the passed context level is the same, and `1` if the passed context level\n     * is greater. If the passed value is not a Moodle context level object,\n     * `NaN` will be returned.\n     */\n    compareTo(mv){\n        return MoodleContextLevel.compare(mv, this);\n    }\n}\n\n// add dynamically created properties for each context to class\nfor(const n of MoodleContextLevel.allNames){\n\tObject.defineProperty(MoodleContextLevel, n, {\n\t\tget: function(){\n\t\t\treturn new MoodleContextLevel(n);\n\t\t}\n\t});\n}\n\nexport default MoodleContextLevel;",
+    "static": true,
+    "longname": "/Users/bbusschots/Documents/Temp/From MU GitHub/moodle-context-level/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "typedef",
+    "name": "ContextLevelNumber",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~ContextLevelNumber",
+    "access": "public",
+    "description": "A Moodle Context Level number. These are the actual numbers used in the\nMoodle database tables to represent the different context levels.",
+    "examples": [
+      "'10'"
+    ],
+    "type": {
+      "types": [
+        "string",
+        "number"
+      ],
+      "optional": false,
+      "name": "ContextLevelNumber"
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "typedef",
+    "name": "ContextLevelName",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~ContextLevelName",
+    "access": "public",
+    "description": "A Moodle Context Level name. These are the names of the PHP constants defined\nin the Moodle code\n(`[lib/accesslib.php](https://github.com/moodle/moodle/blob/master/lib/accesslib.php)`).",
+    "examples": [
+      "'CONTEXT_SYSTEM'"
+    ],
+    "type": {
+      "types": [
+        "string"
+      ],
+      "optional": false,
+      "name": "ContextLevelName"
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "typedef",
+    "name": "ContextLevelBaseName",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~ContextLevelBaseName",
+    "access": "public",
+    "description": "The base names for a Moodle Context Level. These are the names of the PHP\nconstants with the `CONTEXT_` prefix removed and converted to lower case.",
+    "examples": [
+      "'system'"
+    ],
+    "see": [
+      "{@link ContextLevelName}"
+    ],
+    "type": {
+      "types": [
+        "string"
+      ],
+      "optional": false,
+      "name": "ContextLevelBaseName"
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "typedef",
+    "name": "ContextLevelAlias",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~ContextLevelAlias",
+    "access": "public",
+    "description": "An alias for the base name for the Moodle Context Level. These names consist\nof only camel-cased letters.",
+    "examples": [
+      "'courseCategory'"
+    ],
+    "type": {
+      "types": [
+        "string"
+      ],
+      "optional": false,
+      "name": "ContextLevelAlias"
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "NUM_BASENAME_MAP",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~NUM_BASENAME_MAP",
+    "access": "protected",
+    "export": false,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": null,
+    "description": "A mapping from context level numbers to context level base names.",
+    "lineNumber": 43,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Map<ContextLevelNumber, ContextLevelBaseName>"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "NUM_NAME_MAP",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~NUM_NAME_MAP",
+    "access": "protected",
+    "export": false,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": null,
+    "description": "A mapping from context level numbers to context level names.",
+    "lineNumber": 58,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Map<ContextLevelNumber, ContextLevelName>"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "BASENAME_ALIASES_MAP",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~BASENAME_ALIASES_MAP",
+    "access": "protected",
+    "export": false,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": null,
+    "description": "A mapping of base names to an array of aliases.",
+    "lineNumber": 69,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Map<ContextLevelBaseName, ContextLevelAlias[]>"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "NAME_NUM_MAP",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~NAME_NUM_MAP",
+    "access": "protected",
+    "export": false,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": null,
+    "description": "A mapping form context level names to context level numbers.",
+    "lineNumber": 84,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Map<ContextLevelName, ContextLevelNumber>"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "BASENAME_NUM_MAP",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~BASENAME_NUM_MAP",
+    "access": "protected",
+    "export": false,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": null,
+    "description": "A mapping from context level base names and aliases to context level numbers.",
+    "lineNumber": 95,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Map<ContextLevelBaseName|ContextLevelAlias, ContextLevelNumber>"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "LC_BASENAME_NUM_MAP",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~LC_BASENAME_NUM_MAP",
+    "access": "protected",
+    "export": false,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": null,
+    "description": "A mapping from lowser-cased context level base names and aliases to context\nlevel numbers.",
+    "lineNumber": 113,
+    "unknown": [
+      {
+        "tagName": "@type {Map<string, ContextLevelNumber>}\n",
+        "tagValue": ""
+      }
+    ],
+    "ignore": true,
+    "type": {
+      "types": [
+        "{}"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "class",
+    "name": "MoodleContextLevel",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel",
+    "access": "public",
+    "export": true,
+    "importPath": "moodle-context-level/src/index.js",
+    "importStyle": "MoodleContextLevel",
+    "description": "A class for representing\n[Context Levels](https://docs.moodle.org/38/en/Assign_roles#Context_and_roles)\nwithin the [Moodle VLE](http://moodle.org/)'s permissions system.",
+    "see": [
+      "https://docs.moodle.org/38/en/Assign_roles#Context_and_roles"
+    ],
+    "lineNumber": 125,
+    "interface": false
+  },
+  {
+    "__docId__": 60,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#constructor",
+    "access": "public",
+    "description": "The default context is `CONTEXT_SYSTEM`.",
+    "lineNumber": 133,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "ContextLevelNumber",
+          "ContextLevelName",
+          "ContextLevelBaseName",
+          "ContextLevelAlias"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "context",
+        "description": ""
+      }
+    ],
+    "throws": [
+      {
+        "types": [
+          "*"
+        ],
+        "description": "TypeError"
+      },
+      {
+        "types": [
+          "*"
+        ],
+        "description": "RangeError"
+      }
+    ]
+  },
+  {
+    "__docId__": 61,
+    "kind": "member",
+    "name": "_number",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#_number",
+    "access": "private",
+    "description": "",
+    "lineNumber": 145,
+    "type": {
+      "nullable": null,
+      "types": [
+        "ContextLevelNumber"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "get",
+    "name": "names",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.names",
+    "access": "public",
+    "description": "A list of all existing context level names as they appear in the\nMoodle source code sorted from lowest context level number to highest.",
+    "lineNumber": 154,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "get",
+    "name": "baseNames",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.baseNames",
+    "access": "public",
+    "description": "An alphabetic list of all defined base names, including aliases.",
+    "lineNumber": 167,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "get",
+    "name": "allNames",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.allNames",
+    "access": "public",
+    "description": "An alphabetic list of all defined level names, be they full names as they\nappear in the Moodle  source code, base names, or aliases.",
+    "lineNumber": 177,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "get",
+    "name": "levelNumbers",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.levelNumbers",
+    "access": "public",
+    "description": "A sorted list of all defined context level numbers.",
+    "lineNumber": 189,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "get",
+    "name": "levels",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.levels",
+    "access": "public",
+    "description": "A list of all context levels sorted by context level number.",
+    "lineNumber": 198,
+    "type": {
+      "nullable": null,
+      "types": [
+        "MoodleContextLevel[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "method",
+    "name": "isContextLevelNumber",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.isContextLevelNumber",
+    "access": "public",
+    "description": "Test if a given value is a valid Moodle Context Level Number.",
+    "see": [
+      "{@link ContextLevelNumber}"
+    ],
+    "lineNumber": 212,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "the value to test."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "strictTypeCheck",
+        "description": "whether or not to enable\nstrict type checking. With strict type cheking enabled, string\nrepresentation of otherwise valid values will return `false`."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "isContextLevelName",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.isContextLevelName",
+    "access": "public",
+    "description": "Test if a given value is a valid Moodle Context Level Name.\n\nBy default names, base names, and aliases are considered valid, but with\nstrict checking only the full context level names as used in the Moodle\nsource code will be accepted.",
+    "see": [
+      "{@link ContextLevelName}",
+      "{@link ContextLevelBaseName}",
+      "{@link ContextLevelAlias}"
+    ],
+    "lineNumber": 238,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "the value to test."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "strictCheck",
+        "description": "By default any name that can be\nresolved to a context level number, ignoring case,  will be considered\nvalid, but if a truthy value is passed only full context level names in\nthe correct case exactly as used in the Moodle source code will be\naccepted."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "numberFromName",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.numberFromName",
+    "access": "public",
+    "description": "Convert any valid name to a context level number. Valid names are\ncontext level names as they appear in the Moodle code, context level\nbase names, and context level aliases.",
+    "lineNumber": 267,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "ContextLevelName, ContextLevelBaseName, ContextLevelAlias"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "ContextLevelNumber",
+        "NaN"
+      ],
+      "spread": false,
+      "description": "If the passed value can't be converted\nto a context level number `NaN` is returned."
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "method",
+    "name": "compare",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.compare",
+    "access": "public",
+    "description": "Compare two values to see if they represent the same context level, a\ngreater context level, or a lesser context level.\n\nContext levels are compared based on their context level number.",
+    "lineNumber": 290,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val2",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "Unless both values are context level objects, `NaN` is\nreturned. If `val1` represents lower context level number than `val2`\n`-1` is returned, if `val1` and `val2` represent the same context level\n`0` is returned, and if `val1` represents a greater context level number\nversion than `val2` `1` is returned."
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "parse",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.parse",
+    "access": "public",
+    "description": "A factory method to build a {@link MoodleContextLevel} object from any\nparsable value. The following are supported:\n\n* A valid context level number (as a number or string)\n* A valid context level name as used in the Moodle code base (in any case).\n* A valid context level base name (in any case).\n* A valid context level alias (in any case).\n* A context level object.",
+    "see": [
+      "{@link ContextLevelNumber}",
+      "{@link ContextLevelName}",
+      "{@link ContextLevelBaseName}",
+      "{@link ContextLevelAlias}"
+    ],
+    "lineNumber": 321,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number",
+          "string",
+          "MoodleContextLevel"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "level",
+        "description": "the context level value to parse."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "MoodleContextLevel"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "throws": [
+      {
+        "types": [
+          "TypeError"
+        ],
+        "description": ""
+      },
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 72,
+    "kind": "method",
+    "name": "parseToNumber",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.parseToNumber",
+    "access": "public",
+    "description": "Try to convert a value to a context level number. The following values\nare supported:\n\n* A valid context level number (as a number or string)\n* A valid context level name as used in the Moodle code base (in any case).\n* A valid context level base name (in any case).\n* A valid context level alias (in any case).\n* A context level object.",
+    "see": [
+      "{@link ContextLevelNumber}",
+      "{@link ContextLevelName}",
+      "{@link ContextLevelBaseName}",
+      "{@link ContextLevelAlias}"
+    ],
+    "lineNumber": 344,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number",
+          "string",
+          "MoodleContextLevel"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "level",
+        "description": "the context level value to parse."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "MoodleContextLevelNumber"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "throws": [
+      {
+        "types": [
+          "TypeError"
+        ],
+        "description": ""
+      },
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "parseToName",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~MoodleContextLevel.parseToName",
+    "access": "public",
+    "description": "Try to convert a value to a context level name as used in the Moodle\nsource code. The following values are supported:\n\n* A valid context level number (as a number or string)\n* A valid context level name as used in the Moodle code base (in any case).\n* A valid context level base name (in any case).\n* A valid context level alias (in any case).\n* A context level object.",
+    "see": [
+      "{@link ContextLevelNumber}",
+      "{@link ContextLevelName}",
+      "{@link ContextLevelBaseName}",
+      "{@link ContextLevelAlias}"
+    ],
+    "lineNumber": 389,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number",
+          "string",
+          "MoodleContextLevel"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "level",
+        "description": "the context level value to parse."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "MoodleContextLevelName"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "throws": [
+      {
+        "types": [
+          "TypeError"
+        ],
+        "description": ""
+      },
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 74,
+    "kind": "get",
+    "name": "number",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#number",
+    "access": "public",
+    "description": "The level's numeric value.",
+    "lineNumber": 420,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "set",
+    "name": "number",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#number",
+    "access": "public",
+    "description": "The level's numeric value, must be one of the levels defined in\n`lib/accesslib.php` in the Moodle source code.",
+    "lineNumber": 432,
+    "type": {
+      "nullable": null,
+      "types": [
+        "ContextLevelNumber"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "throws": [
+      {
+        "types": [
+          "TypeError"
+        ],
+        "description": ""
+      },
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 77,
+    "kind": "get",
+    "name": "name",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#name",
+    "access": "public",
+    "description": "The level's name as it appears in the Moodle sourse code.",
+    "lineNumber": 447,
+    "type": {
+      "nullable": null,
+      "types": [
+        "ContextLevelName"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "set",
+    "name": "name",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#name",
+    "access": "public",
+    "description": "The level's name in any valid form.\n\nAny name that can be parsed by the `nameFromNumber()` static function\nis acceptable.",
+    "see": [
+      "MoodleContextLevel.nameFromNumber"
+    ],
+    "lineNumber": 462,
+    "type": {
+      "nullable": null,
+      "types": [
+        "ContextLevelName",
+        "ContextLevelBaseName",
+        "ContextLevelAlias"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "throws": [
+      {
+        "types": [
+          "TypeError"
+        ],
+        "description": ""
+      },
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 80,
+    "kind": "get",
+    "name": "baseName",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#baseName",
+    "access": "public",
+    "description": "The level's base name.",
+    "lineNumber": 477,
+    "type": {
+      "nullable": null,
+      "types": [
+        "ContextLevelBaseName"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "get",
+    "name": "aliases",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#aliases",
+    "access": "public",
+    "description": "All the level's aliases.",
+    "lineNumber": 486,
+    "type": {
+      "nullable": null,
+      "types": [
+        "ContextLevelAlias[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "get",
+    "name": "names",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#names",
+    "access": "public",
+    "description": "All the level's valid names in alphabetical order. This includes the\nlevel's name as used in the Moodle source code, the level's base name,\nand all the level's aliases.",
+    "lineNumber": 497,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "clone",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#clone",
+    "access": "public",
+    "description": "Create a new Moodle context level object representing the same context\nlevel.",
+    "lineNumber": 511,
+    "return": {
+      "nullable": null,
+      "types": [
+        "MoodleContextLevel"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "toString",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#toString",
+    "access": "public",
+    "description": "The context level as a string consisting of the name followed by a space\nthen the level number in parentheses, e.g. `SYSTEM (10)`.",
+    "lineNumber": 521,
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 85,
+    "kind": "method",
+    "name": "toObject",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#toObject",
+    "access": "public",
+    "description": "The version as a plain object indexed by:\n\n* `name`\n* `number`\n* `baseName`\n* `aliases`",
+    "lineNumber": 535,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 86,
+    "kind": "method",
+    "name": "equals",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#equals",
+    "access": "public",
+    "description": "Test if a given value is a Moodle context level object representing the\nsame context level.",
+    "lineNumber": 551,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "method",
+    "name": "compareTo",
+    "memberof": "src/index.js~MoodleContextLevel",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/index.js~MoodleContextLevel#compareTo",
+    "access": "public",
+    "description": "Compare this context level to another.",
+    "lineNumber": 564,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "MoodleContextLevel"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "mv",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "`-1` returned if passed context level is lesser, `0` if\nthe passed context level is the same, and `1` if the passed context level\nis greater. If the passed value is not a Moodle context level object,\n`NaN` will be returned."
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# moodle-context-level\nA JavaScript class representing the context levels in Moodle's permissions system.\n",
+    "longname": "/Users/bbusschots/Documents/Temp/From MU GitHub/moodle-context-level/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"moodle-context-level\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A JavaScript class representing the context levels in Moodle's permissions system.\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.es.js\",\n  \"files\": [\n    \"dist\"\n  ],\n  \"publishConfig\": {\n    \"access\": \"public\"\n  },\n  \"scripts\": {\n    \"build\": \"./node_modules/rollup/dist/bin/rollup -c\",\n    \"docs\": \"./node_modules/.bin/esdoc -c ./esdoc.json\",\n    \"docs-dev\": \"./node_modules/.bin/esdoc -c ./esdoc-dev.json\",\n    \"test\": \"./node_modules/.bin/qunit -c MoodleContextLevel:./dist/index.js -d is:./node_modules/is_js _:./node_modules/lodash util:./node_modules/@maynoothuniversity/mu-qunit-util -t ./test/tests.js\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/bbusschots-mu/moodle-context-level.git\"\n  },\n  \"keywords\": [\n    \"JavaScript\",\n    \"Moodle\"\n  ],\n  \"author\": \"Bart Busschots\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/bbusschots-mu/moodle-context-level/issues\"\n  },\n  \"homepage\": \"https://github.com/bbusschots-mu/moodle-context-level#readme\",\n  \"devDependencies\": {\n    \"@maynoothuniversity/mu-qunit-util\": \"^1.1.1\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-node\": \"^1.0.5\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"lodash\": \"^4.17.15\",\n    \"node-qunit\": \"^1.0.0\",\n    \"rollup\": \"^1.27.8\",\n    \"rollup-plugin-commonjs\": \"^10.1.0\",\n    \"rollup-plugin-node-resolve\": \"^5.2.0\"\n  },\n  \"dependencies\": {\n    \"is_js\": \"^0.9.0\"\n  }\n}\n",
+    "longname": "/Users/bbusschots/Documents/Temp/From MU GitHub/moodle-context-level/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
