@@ -1,8 +1,8 @@
 window.esdocSearchIndex = [
   [
-    "moodle-context-level/src/index.js~moodlecontextlevel",
+    "@maynoothuniversity/moodle-context-level/src/index.js~moodlecontextlevel",
     "class/src/index.js~MoodleContextLevel.html",
-    "<span>MoodleContextLevel</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>MoodleContextLevel</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "class"
   ],
   [

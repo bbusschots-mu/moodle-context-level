@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl" href="../../">
-  <title data-ice="title">src/index.js | moodle-context-level</title>
+  <title data-ice="title">src/index.js | @maynoothuniversity/moodle-context-level</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
+<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@maynoothuniversity/moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -160,6 +160,16 @@ for(const bn of Object.keys(BASENAME_NUM_MAP)){
  * A class for representing
  * [Context Levels](https://docs.moodle.org/38/en/Assign_roles#Context_and_roles)
  * within the [Moodle VLE](http://moodle.org/)&apos;s permissions system.
+ *
+ * As well as the various functions and properties described in the documetation
+ * below there are also dynamically created properties with each valid context
+ * level name which get MoodleContextLevel instances for the matching level.
+ * In many instances these accessors will obviate the need to use a contructor.
+ *
+ * ```
+ * const sysCtx = MoodleContextLevel.system;
+ * const courseCtx = MoodleContextLevel.CONTEXT_COURSE;
+ * ```
  * 
  * @see https://docs.moodle.org/38/en/Assign_roles#Context_and_roles
  */

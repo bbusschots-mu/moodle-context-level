@@ -1,44 +1,44 @@
 window.esdocSearchIndex = [
   [
-    "moodle-context-level/src/index.js~basename_aliases_map",
+    "@maynoothuniversity/moodle-context-level/src/index.js~basename_aliases_map",
     "variable/index.html#static-variable-BASENAME_ALIASES_MAP",
-    "<span>BASENAME_ALIASES_MAP</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>BASENAME_ALIASES_MAP</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "variable"
   ],
   [
-    "moodle-context-level/src/index.js~basename_num_map",
+    "@maynoothuniversity/moodle-context-level/src/index.js~basename_num_map",
     "variable/index.html#static-variable-BASENAME_NUM_MAP",
-    "<span>BASENAME_NUM_MAP</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>BASENAME_NUM_MAP</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "variable"
   ],
   [
-    "moodle-context-level/src/index.js~lc_basename_num_map",
+    "@maynoothuniversity/moodle-context-level/src/index.js~lc_basename_num_map",
     "variable/index.html#static-variable-LC_BASENAME_NUM_MAP",
-    "<span>LC_BASENAME_NUM_MAP</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>LC_BASENAME_NUM_MAP</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "variable"
   ],
   [
-    "moodle-context-level/src/index.js~moodlecontextlevel",
+    "@maynoothuniversity/moodle-context-level/src/index.js~moodlecontextlevel",
     "class/src/index.js~MoodleContextLevel.html",
-    "<span>MoodleContextLevel</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>MoodleContextLevel</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "class"
   ],
   [
-    "moodle-context-level/src/index.js~name_num_map",
+    "@maynoothuniversity/moodle-context-level/src/index.js~name_num_map",
     "variable/index.html#static-variable-NAME_NUM_MAP",
-    "<span>NAME_NUM_MAP</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>NAME_NUM_MAP</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "variable"
   ],
   [
-    "moodle-context-level/src/index.js~num_basename_map",
+    "@maynoothuniversity/moodle-context-level/src/index.js~num_basename_map",
     "variable/index.html#static-variable-NUM_BASENAME_MAP",
-    "<span>NUM_BASENAME_MAP</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>NUM_BASENAME_MAP</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "variable"
   ],
   [
-    "moodle-context-level/src/index.js~num_name_map",
+    "@maynoothuniversity/moodle-context-level/src/index.js~num_name_map",
     "variable/index.html#static-variable-NUM_NAME_MAP",
-    "<span>NUM_NAME_MAP</span> <span class=\"search-result-import-path\">moodle-context-level/src/index.js</span>",
+    "<span>NUM_NAME_MAP</span> <span class=\"search-result-import-path\">@maynoothuniversity/moodle-context-level/src/index.js</span>",
     "variable"
   ],
   [

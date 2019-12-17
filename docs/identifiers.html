@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl">
-  <title data-ice="title">Reference | moodle-context-level</title>
+  <title data-ice="title">Reference | @maynoothuniversity/moodle-context-level</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
+<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@maynoothuniversity/moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -72,7 +72,13 @@
         <div data-ice="description"><p>A class for representing
 <a href="https://docs.moodle.org/38/en/Assign_roles#Context_and_roles">Context Levels</a>
 within the <a href="http://moodle.org/">Moodle VLE</a>&apos;s permissions system.</p>
-</div>
+<p>As well as the various functions and properties described in the documetation
+below there are also dynamically created properties with each valid context
+level name which get MoodleContextLevel instances for the matching level.
+In many instances these accessors will obviate the need to use a contructor.</p>
+<pre><code><code class="source-code prettyprint">const sysCtx = MoodleContextLevel.system;
+const courseCtx = MoodleContextLevel.CONTEXT_COURSE;</code>
+</code></pre></div>
       </div>
     </td>
     <td>

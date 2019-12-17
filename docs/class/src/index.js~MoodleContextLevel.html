@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl" href="../../">
-  <title data-ice="title">MoodleContextLevel | moodle-context-level</title>
+  <title data-ice="title">MoodleContextLevel | @maynoothuniversity/moodle-context-level</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
+<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@maynoothuniversity/moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -39,13 +39,13 @@
 </nav>
 
 <div class="content" data-ice="content"><div class="header-notice">
-  <div data-ice="importPath" class="import-path"><pre class="prettyprint"><code data-ice="importPathCode">import MoodleContextLevel from &apos;<span><a href="file/src/index.js.html#lineNumber125">moodle-context-level/src/index.js</a></span>&apos;</code></pre></div>
+  <div data-ice="importPath" class="import-path"><pre class="prettyprint"><code data-ice="importPathCode">import MoodleContextLevel from &apos;<span><a href="file/src/index.js.html#lineNumber135">@maynoothuniversity/moodle-context-level/src/index.js</a></span>&apos;</code></pre></div>
   <span data-ice="access">public</span>
   <span data-ice="kind">class</span>
   
   
   
-  <span data-ice="source">| <span><a href="file/src/index.js.html#lineNumber125">source</a></span></span>
+  <span data-ice="source">| <span><a href="file/src/index.js.html#lineNumber135">source</a></span></span>
 </div>
 
 <div class="self-detail detail">
@@ -68,7 +68,13 @@
   <div class="description" data-ice="description"><p>A class for representing
 <a href="https://docs.moodle.org/38/en/Assign_roles#Context_and_roles">Context Levels</a>
 within the <a href="http://moodle.org/">Moodle VLE</a>&apos;s permissions system.</p>
-</div>
+<p>As well as the various functions and properties described in the documetation
+below there are also dynamically created properties with each valid context
+level name which get MoodleContextLevel instances for the matching level.
+In many instances these accessors will obviate the need to use a contructor.</p>
+<pre><code><code class="source-code prettyprint">const sysCtx = MoodleContextLevel.system;
+const courseCtx = MoodleContextLevel.CONTEXT_COURSE;</code>
+</code></pre></div>
   
 
   <div data-ice="see"><h4>See:</h4><ul><li><span><a href="https://docs.moodle.org/38/en/Assign_roles#Context_and_roles">https://docs.moodle.org/38/en/Assign_roles#Context_and_roles</a></span></li></ul></div>
@@ -870,7 +876,7 @@ then the level number in parentheses, e.g.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber177">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber187">source</a></span></span>
     </span>
   </h3>
 
@@ -915,7 +921,7 @@ appear in the Moodle  source code, base names, or aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber167">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber177">source</a></span></span>
     </span>
   </h3>
 
@@ -959,7 +965,7 @@ appear in the Moodle  source code, base names, or aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber189">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber199">source</a></span></span>
     </span>
   </h3>
 
@@ -1003,7 +1009,7 @@ appear in the Moodle  source code, base names, or aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber198">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber208">source</a></span></span>
     </span>
   </h3>
 
@@ -1047,7 +1053,7 @@ appear in the Moodle  source code, base names, or aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber154">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber164">source</a></span></span>
     </span>
   </h3>
 
@@ -1095,7 +1101,7 @@ Moodle source code sorted from lowest context level number to highest.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber290">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber300">source</a></span></span>
     </span>
   </h3>
 
@@ -1180,7 +1186,7 @@ version than <code>val2</code> <code>1</code> is returned.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber238">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber248">source</a></span></span>
     </span>
   </h3>
 
@@ -1270,7 +1276,7 @@ accepted.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber212">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber222">source</a></span></span>
     </span>
   </h3>
 
@@ -1353,7 +1359,7 @@ representation of otherwise valid values will return <code>false</code>.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber267">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber277">source</a></span></span>
     </span>
   </h3>
 
@@ -1429,7 +1435,7 @@ to a context level number <code>NaN</code> is returned.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber321">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber331">source</a></span></span>
     </span>
   </h3>
 
@@ -1528,7 +1534,7 @@ parsable value. The following are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber389">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber399">source</a></span></span>
     </span>
   </h3>
 
@@ -1627,7 +1633,7 @@ source code. The following values are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber344">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber354">source</a></span></span>
     </span>
   </h3>
 
@@ -1729,7 +1735,7 @@ are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber133">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber143">source</a></span></span>
     </span>
   </h3>
 
@@ -1809,7 +1815,7 @@ are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber486">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber496">source</a></span></span>
     </span>
   </h3>
 
@@ -1853,7 +1859,7 @@ are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber477">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber487">source</a></span></span>
     </span>
   </h3>
 
@@ -1897,7 +1903,7 @@ are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber447">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber457">source</a></span></span>
     </span>
   </h3>
 
@@ -1941,7 +1947,7 @@ are supported:</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber462">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber472">source</a></span></span>
     </span>
   </h3>
 
@@ -2002,7 +2008,7 @@ is acceptable.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber497">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber507">source</a></span></span>
     </span>
   </h3>
 
@@ -2048,7 +2054,7 @@ and all the level&apos;s aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber420">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber430">source</a></span></span>
     </span>
   </h3>
 
@@ -2092,7 +2098,7 @@ and all the level&apos;s aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber432">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber442">source</a></span></span>
     </span>
   </h3>
 
@@ -2155,7 +2161,7 @@ and all the level&apos;s aliases.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber511">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber521">source</a></span></span>
     </span>
   </h3>
 
@@ -2212,7 +2218,7 @@ level.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber564">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber574">source</a></span></span>
     </span>
   </h3>
 
@@ -2288,7 +2294,7 @@ is greater. If the passed value is not a Moodle context level object,
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber551">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber561">source</a></span></span>
     </span>
   </h3>
 
@@ -2361,7 +2367,7 @@ same context level.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber535">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber545">source</a></span></span>
     </span>
   </h3>
 
@@ -2423,7 +2429,7 @@ same context level.</p>
     <span class="right-info">
       
       
-      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber521">source</a></span></span>
+      <span data-ice="source"><span><a href="file/src/index.js.html#lineNumber531">source</a></span></span>
     </span>
   </h3>
 

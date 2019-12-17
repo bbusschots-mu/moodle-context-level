@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl">
-  <title data-ice="title">Home | moodle-context-level</title>
+  <title data-ice="title">Home | @maynoothuniversity/moodle-context-level</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
+<meta name="description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@maynoothuniversity/moodle-context-level"><meta property="twitter:description" content="A JavaScript class representing the context levels in Moodle&apos;s permissions system."></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -39,7 +39,73 @@
 </nav>
 
 <div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="moodle-context-level">moodle-context-level</h1><p>A JavaScript class representing the context levels in Moodle&apos;s permissions system.</p>
-</div>
+<h2 id="installation--amp--importation">Installation &amp; Importation</h2><h3 id="nodejs">NodeJS</h3><p>Install with:</p>
+<pre><code><code class="source-code prettyprint">npm install --save &apos;@maynoothuniversity/moodle-context-level&apos;</code>
+</code></pre><p>Import with:</p>
+<pre><code><code class="source-code prettyprint">const MoodleContextLevel = require(&apos;@maynoothuniversity/moodle-context-level&apos;);</code>
+</code></pre><h3 id="browser">Browser</h3><p>Import into page with:</p>
+<pre><code><code class="source-code prettyprint">&lt;!-- Import MoodleContextLevel from CDN --&gt;
+&lt;script src=&quot;https://rawcdn.githack.com/bbusschots-mu/moodle-context-level/1aa70e57d14ed7fba107721de9df2dc30806329a/dist/index.js&quot;&gt;&lt;/script&gt;</code>
+</code></pre><h2 id="basic-example">Basic Example</h2><pre><code><code class="source-code prettyprint">// Example assumes module has been imported as MoodleContextLevel
+
+// factory method &#x2014; 3 ways to create a course context
+const cxt1 = MoodleContextLevel.parse(&apos;CONTEXT_COURSE&apos;); // by name
+const cxt2 = MoodleContextLevel.parse(&apos;course&apos;); // by base name or alias
+const cxt3 = MoodleContextLevel.parse(50); // by number
+
+// static factory getters - 3 ways to create a category context
+const catCxt1 = MoodleContextLevel.CONTEXT_COURSECAT; // by name
+const catCxt2 = MoodleContextLevel.coursecat; // by base name
+const catCxt3 = MoodleContextLevel.category; // by alias
+
+// properties
+console.log(catCxt1.name); // CONTEXT_COURSECAT
+console.log(catCxt1.baseName); // courseCat
+console.log(catCxt1.aliases); // [&apos;category&apos;, &apos;courseCategory&apos;]
+console.log(catCxt1.number); // 40
+
+// all existing context names as they appear in the Moodle source code
+console.log(MoodleContextLevel.names);
+  // [
+  //   &apos;CONTEXT_SYSTEM&apos;,
+  //   &apos;CONTEXT_USER&apos;,
+  //   &apos;CONTEXT_COURSECAT&apos;,
+  //   &apos;CONTEXT_COURSE&apos;,
+  //   &apos;CONTEXT_MODULE&apos;,
+  //   &apos;CONTEXT_BLOCK&apos;
+  // ]
+
+// all names understood by the module
+console.log(MoodleContextLevel.allNames);
+  // [
+  //   &apos;CONTEXT_BLOCK&apos;,     &apos;CONTEXT_COURSE&apos;,
+  //   &apos;CONTEXT_COURSECAT&apos;, &apos;CONTEXT_MODULE&apos;,
+  //   &apos;CONTEXT_SYSTEM&apos;,    &apos;CONTEXT_USER&apos;,
+  //   &apos;block&apos;,             &apos;category&apos;,
+  //   &apos;course&apos;,            &apos;courseCategory&apos;,
+  //   &apos;coursecat&apos;,         &apos;module&apos;,
+  //   &apos;system&apos;,            &apos;user&apos;
+  // ]</code>
+</code></pre><h2 id="api-documentation">API Documentation</h2><p>The documentation for the public API can be access at
+<a href="https://bbusschots-mu.github.io/moodle-context-level/">https://bbusschots-mu.github.io/moodle-context-level/</a>.</p>
+<h2 id="development">Development</h2><p>To contribute to the module, clone it from GitHub and then in the folder
+execute the following:</p>
+<pre><code><code class="source-code prettyprint">npm install</code>
+</code></pre><p>The single source file is <code>./src/index.html</code>.</p>
+<p>Once changes have been made the two distribution files can be generated with:</p>
+<pre><code><code class="source-code prettyprint">npm run build</code>
+</code></pre><p>The public API documentation can be updated with:</p>
+<pre><code><code class="source-code prettyprint">npm run docs</code>
+</code></pre><p>The generated documentation will be at <code>./docs/index.html</code>.</p>
+<p>The public API documentation does not include private variables. Full developer
+documentation can be generated with:</p>
+<pre><code><code class="source-code prettyprint">npm run docs-dev</code>
+</code></pre><p>The generated develoer documentation will be at <code>./docs-dev/index.html</code>.</p>
+<p>The QUnit test suite is defined in <code>./test/tests.js</code>.</p>
+<p>The tests can be execute in-browser <strong>after the code has been built</strong> at
+<code>./test/index.html</code>, or from the CLI with:</p>
+<pre><code><code class="source-code prettyprint">npm run test</code>
+</code></pre></div>
 </div>
 
 <footer class="footer">
