@@ -192,7 +192,6 @@ QUnit.module('constructor', function(){
         const mustThrowTypeError = [
             ...util.dummyBasicDataExcept('string', 'number', 'object', 'other')
         ];
-		console.log(util.dummyData('string.empty'));
 		const mustThrowRangeError = [
 			util.dummyData('string.empty'),
 			...util.dummyDataWithAllTags('integer', 'negative'),
