@@ -1015,6 +1015,16 @@ for(const bn of Object.keys(BASENAME_NUM_MAP)){
  * A class for representing
  * [Context Levels](https://docs.moodle.org/38/en/Assign_roles#Context_and_roles)
  * within the [Moodle VLE](http://moodle.org/)'s permissions system.
+ *
+ * As well as the various functions and properties described in the documetation
+ * below there are also dynamically created properties with each valid context
+ * level name which get MoodleContextLevel instances for the matching level.
+ * In many instances these accessors will obviate the need to use a contructor.
+ *
+ * ```
+ * const sysCtx = MoodleContextLevel.system;
+ * const courseCtx = MoodleContextLevel.CONTEXT_COURSE;
+ * ```
  * 
  * @see https://docs.moodle.org/38/en/Assign_roles#Context_and_roles
  */
@@ -1247,15 +1257,15 @@ class MoodleContextLevel {
 				// is integer, check if it's a valid key
 				if(NUM_BASENAME_MAP[level]){
 					return parseInt(level);
-				}else{
+				}else {
 					throw new RangeError(`unknown level '${level}'`);
 				}
-			}else{
+			}else {
 				// is not an integer, so check if it's a known name
 				const num = MoodleContextLevel.numberFromName(level);
 				if(num){
 					return num;
-				}else{
+				}else {
 					throw new RangeError(`unknown level '${level}'`);
 				}
 			}
@@ -1292,15 +1302,15 @@ class MoodleContextLevel {
 				// is integer, check if it's a valid key
 				if(NUM_BASENAME_MAP[level]){
 					return NUM_NAME_MAP[level];
-				}else{
+				}else {
 					throw new RangeError(`unknown level '${level}'`);
 				}
-			}else{
+			}else {
 				// is not an integer, so check if it's a known name
 				const num = MoodleContextLevel.parseToNumber(level);
 				if(num){
 					return NUM_NAME_MAP[num];
-				}else{
+				}else {
 					throw new RangeError(`unknown level '${level}'`);
 				}
 			}
@@ -1360,7 +1370,7 @@ class MoodleContextLevel {
 		const num = MoodleContextLevel.numberFromName(n);
 		if(num){
 			this._number = num;
-		}else{
+		}else {
 			throw new RangeError(`unknown level '${n}'`);
 		}
     }
